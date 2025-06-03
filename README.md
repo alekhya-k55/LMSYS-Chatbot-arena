@@ -1,5 +1,6 @@
 # LMSYS-Chatbot-arena
 The custom neural network we built for LMSYS Chatbot Arena Competition 
+Competition Link: https://www.kaggle.com/competitions/lmsys-chatbot-arena
 
 Abstract from our paper: 
 
